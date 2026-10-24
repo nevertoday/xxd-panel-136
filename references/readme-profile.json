@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 136｜Poetic Surrealist Whitespace: rereads a photo's mood and relationships and repaints a few key figures as a naive, poetic-surrealist scene, allowing shifts of scale, swapped objects, floating, pulling or impossible pairings, painted clumsily in thin acrylic on canvas with visible weave and brush marks, in soft vintage naturals such as warm off-white, sage, ochre, terracotta, old red and misty blue, with a tiny subject in vast empty space and a few words in fine serif or handwriting. Deliberately not a faithful redraw. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-136 or asks for naive art, poetic surrealism, whimsical surreal canvas painting from a photo.",
+  "short_description": "诗意超现实留白志：把照片改写成一幅稚拙的布面小画，尺度错置、物象替换，留白巨大",
+  "zh-CN": {
+    "name": "诗意超现实留白志",
+    "tagline": "把照片改写成一幅稚拙的超现实布面小画，留下一个荒诞又准确的画面关系。",
+    "look": "这一款不忠实转绘，而是只留下照片里少数关键形象，再用尺度错置、物象替换、悬浮、牵引或不合常理的组合重新讲一遍，比如人比杯子还小、一朵云被绳子牵着。造型朴素、略显笨拙，轮廓带一点迟疑，用布面薄涂丙烯画出，看得到画布纹理和刷痕。颜色是柔和的复古自然色：暖米白、灰绿、赭黄、陶土橙、旧红、雾蓝，只有一点清晰的暖色点睛。主体很小，四周是巨大的空白；几个字词或短句用纤细衬线或手写字落在留白里。",
+    "traits": [
+      "稚拙诗意超现实",
+      "尺度错置与物象替换",
+      "布面薄涂丙烯",
+      "荒诞关系",
+      "微小主体巨大负空间"
+    ],
+    "good": [
+      "有情绪或关系可以被放大的照片：一个人看海、两个人牵手、一只猫望着窗外",
+      "物件和人之间有有趣对比的照片：气球、雨伞、杯子、椅子",
+      "想做成诗集插图、展览海报或带点幽默和孤独感的作品"
+    ],
+    "poor": [
+      "需要忠实记录、不能改动事实的照片：证件照、产品图、新闻图片",
+      "想保留完整场景或每个人的合影",
+      "想要写实塑造、卡通、3D 或精修商业插画的效果"
+    ]
+  },
+  "en": {
+    "name": "Poetic Surrealist Whitespace",
+    "tagline": "Rewrites your photo as a small naive surrealist painting on canvas, built around one absurd yet fitting idea.",
+    "look": "This style is not a faithful redraw. It keeps only a few key figures from the photo and retells the scene through shifts of scale, swapped objects, floating, pulling or impossible pairings, such as a person smaller than a cup or a cloud led on a string. Shapes are plain and a little clumsy, with hesitant outlines, painted in thin acrylic on canvas with visible weave and brush marks. Colours are soft vintage naturals such as warm off-white, sage, ochre, terracotta, old red and misty blue, with one clear warm accent. The subject is tiny in vast empty space, and a few words or a short line sit in the whitespace in fine serif or natural handwriting.",
+    "traits": [
+      "Naive poetic surrealism",
+      "Shifted scale and swapped objects",
+      "Thin acrylic on canvas",
+      "Absurd relationships",
+      "Tiny subject, vast negative space"
+    ],
+    "good": [
+      "Photos with a mood or relationship that can be magnified: someone looking at the sea, two people holding hands, a cat watching from a window",
+      "Photos with an amusing contrast between people and objects: balloons, umbrellas, cups, chairs",
+      "Photos for a poetry illustration, exhibition poster or a piece with gentle humour and solitude"
+    ],
+    "poor": [
+      "Photos that must be recorded faithfully and not altered: ID photos, product shots, news images",
+      "Group photos that need the whole scene and every person kept",
+      "Requests for realistic modelling, cartoon, 3D or polished commercial illustration"
+    ]
+  },
+  "ja": {
+    "name": "詩的シュルレアリスムの余白",
+    "tagline": "写真を素朴なシュールレアリスムの小さなキャンバス画に描き換え、不条理でいて的確な一つの関係を残します。",
+    "look": "このスタイルは写真を忠実には描き写しません。写真の中の大切な形だけを少し残し、大きさの入れ替え、物の置き換え、浮遊、引っぱり、ありえない組み合わせで場面を語り直します。たとえばカップより小さな人や、ひもで引かれる雲のように。形は素朴で少しぎこちなく、輪郭にはためらいがあり、キャンバスに薄塗りのアクリルで描いて布目や筆跡を残します。色は暖かい生成り、灰緑、黄土、テラコッタ、古びた赤、霧のような青といった柔らかなレトロの自然色で、はっきりした暖色を一点だけ効かせます。主役はごく小さく周りは広大な余白。単語や短い一言を細いセリフ体か自然な手書きで余白に置きます。",
+    "traits": [
+      "素朴で詩的なシュルレアリスム",
+      "大きさの入れ替えと物の置き換え",
+      "キャンバスに薄塗りのアクリル",
+      "不条理な関係",
+      "ごく小さな主役と広大な余白"
+    ],
+    "good": [
+      "気分や関係を大きく描ける写真：海を見る人、手をつなぐ二人、窓の外を見る猫",
+      "人と物の対比がおもしろい写真：風船、傘、カップ、椅子",
+      "詩集の挿画、展覧会のポスター、ユーモアと孤独を帯びた作品にしたい写真"
+    ],
+    "poor": [
+      "事実を変えずに忠実に記録すべき写真：証明写真、商品写真、報道写真",
+      "場面全体や全員を残したい集合写真",
+      "写実的な立体表現、アニメ調、3D、作り込んだ商業イラストを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "시적 초현실 여백",
+    "tagline": "사진을 소박한 초현실주의 캔버스 소품으로 다시 쓰고, 엉뚱하지만 정확한 장면 관계 하나를 남깁니다.",
+    "look": "이 스타일은 사진을 충실히 옮겨 그리지 않습니다. 사진 속 중요한 형상 몇 개만 남기고 크기 뒤바꾸기, 사물 바꿔 넣기, 떠오르기, 끌어당기기, 말이 안 되는 조합으로 장면을 다시 이야기합니다. 컵보다 작은 사람이나 끈에 묶여 끌려가는 구름처럼요. 형태는 소박하고 조금 서툴며 윤곽에는 망설임이 있고, 캔버스에 아크릴을 얇게 칠해 천 결과 붓 자국이 보입니다. 색은 따뜻한 미색, 회녹색, 황토, 테라코타, 바랜 빨강, 안개 같은 파랑 같은 부드러운 레트로 자연색이며, 선명한 따뜻한 색 하나만 포인트로 둡니다. 주인공은 아주 작고 주변은 거대한 여백이며, 단어나 짧은 문장을 가는 세리프나 자연스러운 손글씨로 여백에 둡니다.",
+    "traits": [
+      "소박하고 시적인 초현실",
+      "크기 뒤바꿈과 사물 바꿔 넣기",
+      "캔버스 위 얇은 아크릴",
+      "엉뚱한 관계",
+      "아주 작은 주인공, 거대한 여백"
+    ],
+    "good": [
+      "분위기나 관계를 크게 키울 수 있는 사진: 바다를 보는 사람, 손잡은 두 사람, 창밖을 보는 고양이",
+      "사람과 사물의 대비가 재미있는 사진: 풍선, 우산, 컵, 의자",
+      "시집 삽화, 전시 포스터, 유머와 고독이 함께 있는 작품으로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "사실을 바꾸지 않고 충실히 기록해야 하는 사진: 증명사진, 제품 사진, 보도 사진",
+      "장면 전체와 모든 사람을 남겨야 하는 단체 사진",
+      "사실적인 입체 표현, 만화풍, 3D, 다듬어진 상업 일러스트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "فراغ سريالي شاعري",
+    "tagline": "يعيد كتابة صورتك لوحةً صغيرة على القماش بأسلوب سريالي عفوي، تقوم على فكرة واحدة عبثية لكنها في محلّها.",
+    "look": "لا يعيد هذا الأسلوب رسم الصورة بأمانة، بل يحتفظ بعدد قليل من العناصر المهمة ويروي المشهد من جديد عبر تبديل الأحجام واستبدال الأشياء والطفو والجرّ أو اجتماعات مستحيلة، كشخص أصغر من فنجان أو غيمة مربوطة بخيط. الأشكال بسيطة وفيها شيء من الخرق، وخطوطها مترددة، مرسومة بطبقات رقيقة من الأكريليك على القماش مع ظهور نسيج القماش وأثر الفرشاة. الألوان طبيعية ناعمة بطابع قديم كالأبيض الكريمي الدافئ والأخضر الرمادي والمغرة والطين البرتقالي والأحمر الباهت والأزرق الضبابي، مع لمسة دافئة واضحة واحدة. العنصر صغير جداً في فراغ هائل، وتجلس كلمات قليلة أو سطر قصير في الفراغ بخط مذيّل رفيع أو بخط يد طبيعي.",
+    "traits": [
+      "سريالية شاعرية عفوية",
+      "تبديل الأحجام واستبدال الأشياء",
+      "أكريليك رقيق على القماش",
+      "علاقات عبثية",
+      "عنصر ضئيل وفراغ هائل"
+    ],
+    "good": [
+      "صور فيها شعور أو علاقة يمكن تضخيمها: شخص ينظر إلى البحر، شخصان متشابكا الأيدي، قطة تنظر من النافذة",
+      "صور فيها مفارقة طريفة بين الناس والأشياء: بالونات، مظلات، فناجين، كراسٍ",
+      "صور لرسم قصيدة أو ملصق معرض أو عمل فيه دعابة هادئة ووحدة"
+    ],
+    "poor": [
+      "صور يجب توثيقها بأمانة دون تغيير: صور الهوية، صور المنتجات، الصور الإخبارية",
+      "صور جماعية يجب أن يبقى فيها المشهد كاملاً وكل الأشخاص",
+      "طلب تجسيم واقعي أو مظهر كرتوني أو ثلاثي الأبعاد أو رسم تجاري مصقول"
+    ]
+  }
+}
